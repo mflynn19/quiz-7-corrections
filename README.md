@@ -10,6 +10,6 @@
 
 11. As seen in question 8, using the remove method with index or value both automatically shift the array elements to preserve order.
 
-12. I'm not sure where the middle answer came from that was marked wrong... but length is a property of an array whereas size is a function of the ArrayList class. Syntactically, this difference is shown by either the presence of absence of parenthesis.
+(#12) I'm not sure where the middle answer came from that was marked wrong... but length is a property of an array whereas size is a function of the ArrayList class. Syntactically, this difference is shown by either the presence of absence of parenthesis.
 
 13. numbers.forEach((number) -> System.out.println(number)); would also work to traverse through the array and print each value in the array as expressed by the lambda. 
